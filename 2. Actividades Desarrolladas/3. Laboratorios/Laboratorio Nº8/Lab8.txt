@@ -1,0 +1,5 @@
+LAB3.1 Y LAB3.2
+En estos dos labs observe los mismos errores que es error en el php por que no tiene el nombre que se le asigno a la variable y mi conclusión es que al no llamar por asi decirlo el archivo html dentro del php no tiene acceso al nombre que se le asigno a la variable.
+
+LAB3.3
+Puede observar que no tuve ningún error y mi conclusion es que al juntar todo en un solo archivo tiene acceso a todo el código y puede realizarlo en un solo archivo

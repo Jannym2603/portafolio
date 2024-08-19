@@ -1,0 +1,9 @@
+lab4.1 Lo que hace el código es que según el porcentaje de venta le mostrara una cara feliz si fue una muy buena venta, cara seria si fue intermedia y cara roja significa que debe mejorar en sus ventas.
+
+lab 4.2 Lo que realiza es que cualquier numero que se ingrese el código sacara su número factorial
+
+lab 4.3 no estoy segura de lo que a¿hace
+
+lab 4.4 En este código que se ingresa 20 números pero solo acepta números pares al ingresar un numero impar arrojara un mensaje que solo puede ingresar números pares
+
+lab 4.5 En este código depende del numero que ingrese mostrara una pequeña tabla con solo los números 1 y 0
